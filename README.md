@@ -50,7 +50,7 @@ El código del bot se encuentra desplegado en el servicio de cloud de [Microsoft
 Actualmente el asistente puede responder a las siguientes peticiones:
 
 | Localización | Horarios | Información general | COVID19 |
-|:--------------|:-------------:|--------------:|--------------:|
+|:--------------|:-------------:|:-------------:|--------------:|
 | Centro médico | Apertura del centro médico | Materiales para analíticas | Vacunas |
 | Urgencias | Entrega de resultados | Recogida de radiografías | Pruebas |
 | Sala de espera | Consultas | Medios de contacto con el centro |  |

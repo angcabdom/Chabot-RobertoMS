@@ -1,0 +1,377 @@
+categories:
+- horarios
+- hospital
+- spanish
+conversations:
+# Hora de apertura
+- - a que hora abre el centro?
+  - El centro abre al publico a las 8:00
+- - a que hora abre?
+  - El centro abre al publico a las 8:00
+
+- - horario del centro
+  - El centro esta abierto al publico de 8:00 a 23:59
+- - necesito saber a que hora abre el centro
+  - El centro esta abierto al publico de 8:00 a 23:59
+- - necesito saber el horario de apertura del centro
+  - El centro esta abierto al publico de 8:00 a 23:59
+- - necesito el horario de apertura del centro
+  - El centro esta abierto al publico de 8:00 a 23:59
+- - cual es el horario del centro
+  - El centro esta abierto al publico de 8:00 a 23:59
+- - horario de apertura del centro
+  - El centro esta abierto al publico de 8:00 a 23:59
+- - cual es el horario de apertura del centro
+  - El centro esta abierto al publico de 8:00 a 23:59
+
+- - a que hora abre el centro medico?
+  - El centro medico sus puertas abre al publico a las 8:00
+- - a que hora abre?
+  - El centro medico sus puertas abre al publico a las 8:00
+
+- - horario del centro medico
+  - El centro medico esta abierto al publico de 8:00 a 23:59
+- - necesito saber a que hora abre el centro medico
+  - El centro medico esta abierto al publico de 8:00 a 23:59
+- - necesito saber el horario de apertura del centro medico
+  - El centro medico esta abierto al publico de 8:00 a 23:59
+- - necesito el horario de apertura del centro medico
+  - El centro medico esta abierto al publico de 8:00 a 23:59
+- - cual es el horario del centro medico
+  - El centro medico esta abierto al publico de 8:00 a 23:59
+- - horario de apertura del centro medico
+  - El centro medico esta abierto al publico de 8:00 a 23:59
+- - cual es el horario de apertura del centro medico
+  - El centro medico esta abierto al publico de 8:00 a 23:59
+
+- - a que hora cierra el centro?
+  - El centro cierra sus puertas al publico a las 23:59
+- - a que hora cierra?
+  - El centro cierra sus puertas al publico a las 23:59
+
+# Horario consultas
+- - necesito saber el horario de las consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito conocer el horario de las consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito el horario de las consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a partir de que hora empiezan las consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a partir de que hora se puede pasar consulta
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se abre la consulta
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se abren las consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se empieza a pasar consulta
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora empiezan a pasar consulta
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - cual es el horario de las consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - horario de las consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+
+- - necesito saber el horario de las consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito conocer el horario de las consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito el horario de las consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a partir de que hora empiezan las consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a partir de que hora se puede pasar consulta
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se abre la consulta medica
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se abren las consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se empieza a pasar consulta
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora empiezan a pasar consulta medica
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - cual es el horario de las consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - horario de las consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+
+
+- - necesito saber el horario de consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito conocer el horario de consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito el horario de consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se abre consulta
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se empieza a pasar consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora empiezan a pasar consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - cual es el horario de consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - horario de consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+
+- - necesito saber el horario de consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito conocer el horario de consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito el horario de consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se abre consulta medica
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora se empieza a pasar consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - a que hora empiezan a pasar consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - cual es el horario de consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - horario de consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+
+
+- - necesito saber el horario consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito conocer el horario consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito el horario consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - cual es el horario consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - horario consultas
+  - Las consultas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+
+- - necesito saber el horario consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito conocer el horario consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - necesito el horario consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - cual es el horario consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+- - horario consultas medicas
+  - Las consultas medicas comienzan a partir de las 8:05 hasta una hora antes del cierre del centro
+
+
+# Horario de resultados de analiticas
+- - horario de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se empiezan a dar los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se empiezan a dar los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - horario de recogida de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+- - horario de recogida de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de recogida de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de recogida de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de recogida de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de recogida de los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se pueden recoger los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se pueden recoger los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se puede recoger los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se puede recoger los resultados de analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+- - horario de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se empiezan a dar los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se empiezan a dar los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - horario de recogida de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+- - horario de recogida de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de recogida de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de recogida de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de recogida de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de recogida de los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se pueden recoger los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se pueden recoger los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se puede recoger los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se puede recoger los resultados de las analiticas
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+# Horario de resultados de analisis clinico
+- - horario de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se empiezan a dar los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se empiezan a dar los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - horario de recogida de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+- - horario de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se empiezan a dar los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se empiezan a dar los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - horario de recogida de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+
+- - horario de recogida de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de recogida de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de recogida de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de recogida de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de recogida de los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se pueden recoger los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se pueden recoger los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se puede recoger los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se puede recoger los resultados de analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+- - horario de recogida de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de recogida de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de recogida de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de recogida de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de recogida de los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se pueden recoger los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se pueden recoger los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se puede recoger los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se puede recoger los resultados de un analisis clinico
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+
+- - horario de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se empiezan a dar los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se empiezan a dar los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - horario de recogida de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+- - horario de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se empiezan a dar los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se empiezan a dar los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - horario de recogida de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+
+- - horario de recogida de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de recogida de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de recogida de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de recogida de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de recogida de los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se pueden recoger los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se pueden recoger los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se puede recoger los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se puede recoger los resultados de los analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+
+- - horario de recogida de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito saber el horario de recogida de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito conocer el horario de recogida de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - necesito el horario de recogida de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - cual es el horario de recogida de los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se pueden recoger los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se pueden recoger los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a partir de que hora se puede recoger los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas
+- - a que hora se puede recoger los resultados de unos analisis clinicos
+  - Los resultados de analiticas se comienzan a entregar a las 8:10 hasta el cierre de las consultas

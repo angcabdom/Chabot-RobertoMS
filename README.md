@@ -54,7 +54,7 @@ Actualmente el asistente puede responder a las siguientes peticiones:
 | Centro médico | Apertura del centro médico | Materiales para analíticas | Vacunas |
 | Urgencias | Entrega de resultados | Recogida de radiografías | Pruebas |
 | Sala de espera | Consultas | Medios de contacto con el centro |  |
-| Aseos | Resultados de analíticas |  |  |
+| Aseos | Resultados de analíticas | Telefono de urgencias |  |
 | Ala de especialidades |  |  |  |
 | Pediatria |  |  |  |
 | Zona de radiografías |  |  |  |

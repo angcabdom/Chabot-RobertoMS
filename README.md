@@ -21,7 +21,7 @@ Existen dos ficheros principales ejecutables dentro del proyecto: [app.py](app.p
 Por otro lado podemos encontrarnos el método de entrenamiento general dentro de la carpeta src, llamado [trainning.py](src/trainning.py), que al ejecutarse "entrena" al bot declarado en el archivo [roberto.py](src/roberto.py), y que este a su vez genera un archivo dentro de la carpeta db, llamado [database.db](src/db/database.db), que contiene todas las conversaciones utilizadas por el archivo de entrenamiento y las nuevas conversaciones que se vayan generando. Así mismo, los ficheros .yml utilizados durante los entrenamientos se encuentran en la ruta [./src/train/spanish](src/train/spanish).
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49127396/120864929-58742780-c58d-11eb-8f13-96128113073c.png">
+  <img src="https://user-images.githubusercontent.com/56036551/130678439-4233b0c3-8356-4fd0-b297-91eb5fcf3577.png">
 </p>
 
 ## Instalación 

@@ -106,6 +106,7 @@ def reset_last_update_id(): # Verificacion de necesidad de reiniciar el contador
         if days >= 7:
             global last_update_id
             last_update_id = None
+        last_update_time = datetime.now()
 
 @app.route('/{}'.format(SECRET_NUMBER), methods=["POST"]) # La funcion se activa cada vez que recibe una consulta del bot
 def telegram_webhook(): # Funcion que obtiene la respuesta a la peticion

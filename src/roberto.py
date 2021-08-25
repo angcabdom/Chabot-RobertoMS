@@ -1,6 +1,4 @@
 from chatterbot import ChatBot
-from chatterbot.comparisons import LevenshteinDistance, JaccardSimilarity
-from chatterbot.response_selection import get_first_response
 
 bot_roberto = ChatBot(
     'Roberto',

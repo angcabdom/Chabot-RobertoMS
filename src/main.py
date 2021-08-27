@@ -9,7 +9,7 @@ bot_teleg.delete_webhook() # Elimina el webhook para poder utilizar sin problema
 @bot_teleg.message_handler(commands=['start']) # Comando de presentacion del bot
 def cmd_start(message):
     bot_teleg.send_message(message.chat.id, "Bienvenido al asistente personal del centro medico")
-    bot_teleg.send_message(chat_id, "Puede realizar las consultas que necesite escribiendolas de manera clara")
+    bot_teleg.send_message(message.chat.id, "Puede realizar las consultas que necesite escribiendolas de manera clara")
 
 @bot_teleg.message_handler(commands=['horario']) # Comando de horarios del bot
 def cmd_horario(message):

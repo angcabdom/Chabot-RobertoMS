@@ -9,7 +9,7 @@ bot_teleg.delete_webhook() # Elimina el webhook para poder utilizar sin problema
 @bot_teleg.message_handler(commands=['start']) # Comando de presentacion del bot
 def cmd_start(message):
     bot_teleg.send_message(message.chat.id, "Bienvenido al asistente personal del centro medico")
-    bot_teleg.send_message(message.chat.id, "Puede realizar las consultas que necesite escribiendo de manera clara lo que necesita")
+    bot_teleg.send_message(chat_id, "Puede realizar las consultas que necesite escribiendolas de manera clara")
 
 @bot_teleg.message_handler(commands=['horario']) # Comando de horarios del bot
 def cmd_horario(message):
@@ -39,12 +39,13 @@ def cmd_ayuda(message):
 
 @bot_teleg.message_handler(commands=['atajos']) # Comando de atajos del bot
 def cmd_atajos(message):
-    items = ["/horario", "/local", "/info"]
+    items = ["/horario", "/local", "/info", "/covid"]
     keyboard = build_keyboard(items)
     bot_teleg.send_message(message.chat.id,"Si tiene dificultades para resolver su consulta, intente utilizar uno de siguientes atajos:")
     bot_teleg.send_message(message.chat.id,"/horario -> Permite acceder a los horarios que son considerados como los mas relevantes para el centro")
     bot_teleg.send_message(message.chat.id,"/local -> Permite conocer las ubicaciones que son considerados como los mas relevantes para el centro")
     bot_teleg.send_message(message.chat.id,"/info -> Permite conocer informacion que es considerada como relevantes para el centro")
+    bot_teleg.send_message(message.chat.id,"/covid -> Permite conocer informacion relacionada con el COVID19 relevantes para el centro")
     bot_teleg.send_message(message.chat.id, "Seleccione el atajo que quiere utilizar del teclado", reply_markup=keyboard)
     bot_teleg.send_message(message.chat.id,"O tambien puede escribir una peticion para que se deshabilite el teclado")
 
@@ -58,6 +59,12 @@ def cmd_comandos(message):
     bot_teleg.send_message(message.chat.id,"/atajos -> Permite utilizar atajos para acceder rapidamente a informacion")
     bot_teleg.send_message(message.chat.id, "Seleccione el comando que quiere utilizar del teclado", reply_markup=keyboard)
     bot_teleg.send_message(message.chat.id,"O tambien puede escribir una peticion para que se deshabilite el teclado")
+
+@bot_teleg.message_handler(commands=['covid'])# Comando de informacion sobre el COVID del bot
+def cmd_covid(chat_id): 
+    items = ["donde se realizan las pruebas del COVID19", "tipos de pruebas del COVID19", "donde vacunan del COVID19", "tipos de vacunas del COVID19"]
+    keyboard = build_keyboard(items)
+    bot_teleg.send_message(chat_id, "Seleccione la categoria relacionada con el COVID19 de la que quiere obtener informacion", reply_markup=keyboard)
 
 def build_keyboard(items): # Construye un teclado personalizado
     keyboard = telebot.types.ReplyKeyboardMarkup(row_width=1)

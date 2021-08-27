@@ -37,7 +37,7 @@ bot_roberto = ChatBot(
 
 def cmd_start(chat_id, user): # Comando de presentacion del bot
     bot_teleg.send_message(chat_id, "Bienvenido al asistente personal del centro medico, " + user)
-    bot_teleg.send_message(chat_id, "Puede realizar las consultas que necesite escribiendo de manera clara lo que necesita")
+    bot_teleg.send_message(chat_id, "Puede realizar las consultas que necesite escribiendolas de manera clara")
 
 def cmd_horario(chat_id): # Comando de horarios del bot
     items = ["horario del centro", "horario de los resultados de los analisis clinicos", "horario de las consultas medicas"]
